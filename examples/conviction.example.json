@@ -1,0 +1,51 @@
+{
+ "author": "Fable 5.1, 2026-09-05 14:40, from ESPN projections + Sonnet dossiers (research_pick4/rd2_3) + league tendencies; revised 15:25 after scarcity-curve analysis; made slot-independent 16:00 (ESPN orderType DRAFT_START may randomize the order at 7:30); R1 Allen-to-6th 16:20",
+ "notes": {
+  "1": "Bijan: never missed a game, workload growing. Gibbs: top projection, minor MCL/back camp scare. Chase over JSN on ceiling; both fine. Nacua last: psoas + open conduct review. NEVER McCaffrey (13 games missed 2024, calf now, touches being cut) or Achane at 4. Late-first (slots 9-12): Cook (low risk, best offense), Jefferson (bounce-back, QB upgrade), Lamb, Henry (32, ironman), Allen if the RB/WR tier is gone, Barkley last. SLOT MATH (16:20): Allen moves to 6th in round 1. At slots 8-12 the elite RB/WR tier is gone and Allen's +88 VOR over QB15 beats Cook/Lamb/Jefferson's +60-65 over their round-2 replacements; taking Allen at 10-12 is +36 EV vs hoping he survives to the turn pick (54-75% by league-adjusted ADP) and removes the variance. First-3-pick EV by slot is nearly flat (870-883) BECAUSE late slots get Allen; the true worst case is a late slot with Allen gone (~50 pts behind slot 3, about 3/wk).",
+  "2_3": "PROJECTION CURVES (this league's scoring): RB cliff #15->#24 = 260->200 (73 pts), WR plateau #9->#24 = 250->213 (37 pts), QB flat #3->#15 = 320->283 with Josh Allen a +51 outlier, TE #1-2 (242) vs #6 (189) vs #12 (169). This league drafts WR-heavy in rounds 2-4 and QBs early. So: RBs from the top 15 at 21/28 (the scarce asset the room under-drafts), Allen if he's there at 21 (marginal over a round-4/5 QB ~53 pts, durable), then plateau WRs at 45-76. London/Collins only as fallbacks. Avoid at this price: Hall, Hampton, Love, Rice, Nabers, Adams, Higgins, Skattebo (all injury/role bets). Allen also heads round 3: at slot 1 picks 24/25 are back-to-back and this league's first QB went at 24/38/20/36/9 in 2021-25, so he can be there at 25."
+ },
+ "by_round": {
+  "1": [
+   4430807,
+   4429795,
+   4362628,
+   4430878,
+   4374302,
+   3918298,
+   4242335,
+   4426515,
+   4379399,
+   4262921,
+   4241389,
+   3043078,
+   3929630
+  ],
+  "2": [
+   3918298,
+   4362238,
+   4567048,
+   4361579,
+   4426502,
+   4258173,
+   4361307,
+   4239996,
+   4241478
+  ],
+  "3": [
+   3918298,
+   4567048,
+   4361579,
+   4362238,
+   4239996,
+   4426502,
+   4258173,
+   4361307,
+   4241478,
+   4429615,
+   4685472,
+   4432665,
+   4685702
+  ]
+ },
+ "max_same_pos_through_round3": 2
+}

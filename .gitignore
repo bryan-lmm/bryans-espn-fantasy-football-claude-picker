@@ -1,0 +1,8 @@
+.venv/
+.profile/
+secrets*
+config.json
+*.log
+__pycache__/
+data/*
+!data/.gitkeep

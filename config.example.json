@@ -1,0 +1,9 @@
+{
+  "season": 2026,
+  "league_id": 123456,
+  "team_id": 1,
+  "team_name": "My Team",
+  "teams": 12,
+  "rounds": 14,
+  "planner_model": "claude-fable-5-1"
+}

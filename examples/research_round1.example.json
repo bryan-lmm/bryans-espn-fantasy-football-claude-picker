@@ -1,0 +1,266 @@
+[
+  {
+    "id": 4429795,
+    "name": "Jahmyr Gibbs",
+    "age": 24,
+    "games_missed_3yr": "2023:2, 2024:0, 2025:0",
+    "injury_now": "Sprained MCL + back issue cost him most of camp; since practiced fully, cleared for Week 1.",
+    "pts_2025": 366.9,
+    "finish_2025": "RB3",
+    "role_note": "Montgomery traded away — Gibbs is now the outright bell-cow per Dan Campbell, no committee. New OC Drew Petzing (ex-ARI) replaces Morton; elite supporting cast (Amon-Ra, LaPorta, Goff).",
+    "risk": "med",
+    "ceiling": 5,
+    "floor": 4,
+    "thesis": "True bell-cow workload upside now, but an in-camp MCL/back scare and a brand-new OC keep this from being zero-risk.",
+    "sources": [
+      "https://www.fantasypros.com/nfl/notes/418458/jahmyr-gibbs-2026-outlook.php",
+      "https://www.nfl.com/news/lions-dan-campbell-jahmyr-gibbs-is-going-to-be-our-bell-cow",
+      "https://www.clickondetroit.com/sports/2026/01/06/lions-fire-offensive-coordinator-john-morton/",
+      "https://www.pro-football-reference.com/players/G/GibbJa01.htm"
+    ]
+  },
+  {
+    "id": 4430807,
+    "name": "Bijan Robinson",
+    "age": 24,
+    "games_missed_3yr": "2023:0, 2024:0, 2025:0",
+    "injury_now": "No injury concerns; has never missed an NFL game.",
+    "pts_2025": 370.8,
+    "finish_2025": "RB2",
+    "role_note": "Allgeier left in FA; Brian Robinson Jr. is a true handcuff not a committee partner, so Bijan's already-massive touch share (366 touches in 2025) should grow. New OC Tommy Rees leaning run-heavy.",
+    "risk": "low",
+    "ceiling": 5,
+    "floor": 5,
+    "thesis": "The safest pick of the group — durable, workload about to grow further, offense being built to run through him.",
+    "sources": [
+      "https://fantasyfootballcalculator.com/players/bijan-robinson/injury",
+      "https://www.atlantafalcons.com/news/falcons-2026-training-camp-preview-running-backs",
+      "https://www.pro-football-reference.com/players/R/RobiBi01.htm"
+    ]
+  },
+  {
+    "id": 4362628,
+    "name": "Ja'Marr Chase",
+    "age": 26,
+    "games_missed_3yr": "2023:1, 2024:0, 2025:1",
+    "injury_now": "Left knee hyperextension from a practice fall; limited in practice, Zac Taylor optimistic for Week 1 opener.",
+    "pts_2025": 313.6,
+    "finish_2025": "WR3",
+    "role_note": "Undisputed alpha WR1, led NFL in targets (185) in 2025. Same OC/HC return and full starting O-line back, but it's the league's cheapest/oldest O-line; Burrow has played 10-or-fewer games in 3 of 6 seasons, which is the real threat to Chase's floor.",
+    "risk": "med",
+    "ceiling": 5,
+    "floor": 3,
+    "thesis": "Elite target monopoly, but the floor lives and dies with Burrow's O-line-dependent health, not Chase's own minor knee issue.",
+    "sources": [
+      "https://new.cbssports.com/nfl/news/nfl-week-1-injury-report-jamarr-chase-limited-in-return-to-practice-colts-could-be-without-starting-kicker/",
+      "https://stripehype.com/bengals-banking-on-joe-burrow-to-thrive-behind-nfl-least-expensive-offensive-line",
+      "https://en.wikipedia.org/wiki/Ja%27Marr_Chase"
+    ]
+  },
+  {
+    "id": 4426515,
+    "name": "Puka Nacua",
+    "age": 25,
+    "games_missed_3yr": "2023:0, 2024:6 (PCL sprain), 2025:1 (ankle sprain)",
+    "injury_now": "Psoas/groin soreness limited him through camp, trending to play Week 1. Bigger overhang: unresolved NFL review into an off-field incident (alleged biting/assault claim, plus backlash over a livestream gesture) — no suspension yet but a live possibility.",
+    "pts_2025": 375.0,
+    "finish_2025": "WR1",
+    "role_note": "Target monster (28.8% share) even alongside Davante Adams; new OC Nate Scheelhaase, same Stafford/McVay infrastructure. Has missed time in 2 of 3 pro seasons already.",
+    "risk": "high",
+    "ceiling": 5,
+    "floor": 2,
+    "thesis": "The best per-game fantasy performer at any position in 2025, but recurring injuries plus an unresolved suspension threat make him the true wildcard of the group.",
+    "sources": [
+      "https://www.rotoballer.com/will-puka-nacua-play-in-week-1-fantasy-football-injury-update-2026/1907671",
+      "https://www.cbssports.com/nfl/news/puka-nacua-suspension-watch-will-nfl-discipline-rams-star/",
+      "https://www.deseret.com/sports/2026/09/01/puka-nacua-week-one-status-los-angeles-rams/"
+    ]
+  },
+  {
+    "id": 4242335,
+    "name": "Jonathan Taylor",
+    "age": 27,
+    "games_missed_3yr": "2023:7, 2024:3, 2025:0",
+    "injury_now": "Healthy, no designation. Sat preseason finale as precautionary rest; full participant heading into Week 1.",
+    "pts_2025": 362.3,
+    "finish_2025": "RB1",
+    "role_note": "Led NFL in carries (323) and rushing TDs (18) in 2025, 70%+ snaps almost every game, minimal committee threat. O-line upgraded (new C, new RT). Taylor was RB2/game with Daniel Jones healthy but fell to RB22/game after Jones' Achilles injury — backup QB play is the swing factor.",
+    "risk": "low",
+    "ceiling": 5,
+    "floor": 4,
+    "thesis": "Elite three-down volume on an improved O-line makes Taylor a 1.01-1.03 caliber pick as long as Daniel Jones stays upright.",
+    "sources": [
+      "https://www.colts.com/news/daniel-jones-availability-throughout-training-camp-preseason-underscores-colts-confidence-in-2026-offense",
+      "https://www.cbssports.com/nfl/news/colts-jonathan-taylor-likely-out-for-the-remainder-of-the-season-with-high-ankle-sprain-per-report",
+      "https://www.draftsharks.com/fantasy/injury-history/jonathan-taylor/10500"
+    ]
+  },
+  {
+    "id": 4430878,
+    "name": "Jaxon Smith-Njigba",
+    "age": 24,
+    "games_missed_3yr": "2023:0, 2024:0, 2025:0",
+    "injury_now": "No Week 1 designation; only recent note is a same-game-return concussion evaluation in the Feb 2026 Super Bowl. Clean bill of health entering camp.",
+    "pts_2025": 21.2,
+    "finish_2025": "WR2",
+    "role_note": "Locked in as clear WR1 with a league-leading 33.9% target share (119/163 targets, 1,793 yds, 10 TD) under Kubiak's scheme. Kubiak left for Raiders HC; Seattle moves to new OC Brian Fleury for 2026 — real scheme-continuity question, though Darnold/Kupp/corps return intact.",
+    "risk": "med",
+    "ceiling": 5,
+    "floor": 3,
+    "thesis": "A proven, injury-free elite target hog whose only real 2026 risk is an unproven new OC after Kubiak's departure.",
+    "sources": [
+      "https://www.espn.com/nfl/story/_/id/46367833/seattle-seahawks-new-offense-klint-kubiak-sam-darnold-cooper-kupp",
+      "https://www.draftsharks.com/fantasy/injury-history/jaxon-smith-njigba/13547"
+    ]
+  },
+  {
+    "id": 3117251,
+    "name": "Christian McCaffrey",
+    "age": 30,
+    "games_missed_3yr": "2023:1, 2024:13, 2025:0",
+    "injury_now": "Calf tightness sidelined him for stretches of camp/preseason (workload management, not a re-aggravation); back to full practice, likely Week 1 starter but some outlets still list him questionable.",
+    "pts_2025": null,
+    "finish_2025": "RB1",
+    "role_note": "Bounced back from a 13-game-missed 2024 (Achilles tendonitis + PCL sprain) to lead the NFL in touches (413) in 2025. For 2026 the 49ers are explicitly managing his workload with Jordan James/Kaelon Black to avoid a repeat breakdown — team-level caution given he's now 30.",
+    "risk": "high",
+    "ceiling": 5,
+    "floor": 2,
+    "thesis": "Best floor in football when healthy, but a three-year pattern of major leg injuries plus a fresh camp calf scare and an explicit team plan to reduce his touches make him the highest-variance pick of this group.",
+    "sources": [
+      "https://www.49ers.com/news/christian-mccaffrey-questionable-for-week-1-injury-report-ahead-of-sfvssea",
+      "https://sports.yahoo.com/articles/christian-mccaffrey-injury-history-complete-210300917.html",
+      "https://www.ninersnation.com/general/157331/previewing-the-49ers-offense-in-2026"
+    ]
+  },
+  {
+    "id": 4374302,
+    "name": "Amon-Ra St. Brown",
+    "age": 26,
+    "games_missed_3yr": "2023:0, 2024:0, 2025:0-1 (played through a low ankle sprain)",
+    "injury_now": "No current Week 1 concern; only offseason procedure on record is a minor 2025 knee clean-up (already resolved).",
+    "pts_2025": 324.0,
+    "finish_2025": "WR3",
+    "role_note": "Entrenched slot/high-volume WR1, career-best 172 targets in 2025, third straight season as a top-3 PPR WR. Lions move to a third straight new play-caller in 2026 (Petzing replacing Morton) — real but likely marginal continuity risk given Goff/Gibbs/Williams around him.",
+    "risk": "low",
+    "ceiling": 4,
+    "floor": 4,
+    "thesis": "The model of a durable, high-floor target hog; the OC change is real but likely marginal given the talent around him.",
+    "sources": [
+      "https://www.espn.com/nfl/story/_/id/45814509/jared-goff-says-lions-having-great-transition-new-oc-john-morton",
+      "https://www.espn.com/nfl/story/_/id/47121352/lions-rule-star-wr-amon-ra-st-brown-ankle-injury"
+    ]
+  },
+  {
+    "id": 4379399,
+    "name": "James Cook III",
+    "age": 27,
+    "games_missed_3yr": "2023:0, 2024:1 (toe), 2025:0",
+    "injury_now": "No injury designation heading into Week 1; full practice participant all week. Minor camp ankle/foot soreness resolved.",
+    "pts_2025": 320.0,
+    "finish_2025": "RB6",
+    "role_note": "Locked into bell-cow role on a top-tier Bills offense; led NFL in rushing yards (1,621) in 2025. Only real competition is Ty Johnson/Ray Davis change-of-pace. New OC Pete Carmichael (reunited with Joe Brady) signaling a bigger receiving role for 2026 — passing-game usage had been thin (8% target share).",
+    "risk": "low",
+    "ceiling": 4,
+    "floor": 4,
+    "thesis": "A locked-in workhorse on the league's best offense with a real shot at expanded passing-game touches — one of the safest RB1 bets available.",
+    "sources": [
+      "https://www.cbssports.com/fantasy/football/news/2026-outlook-james-cook/",
+      "https://www.si.com/nfl/bills/onsi/bills-offense-could-feature-distinct-james-cook-change-under-joe-brady",
+      "https://www.draftsharks.com/fantasy/injury-history/james-cook/12585"
+    ]
+  },
+  {
+    "id": 4241389,
+    "name": "CeeDee Lamb",
+    "age": 27,
+    "games_missed_3yr": "2023:0, 2024:2 (shoulder), 2025:3-4 (ankle sprain + partial concussion game)",
+    "injury_now": "Cleared and healthy — no shoulder or ankle issue reported; full participant in August 2026 camp, on track for Week 1.",
+    "pts_2025": 245.0,
+    "finish_2025": "WR22 total / WR10 per-game",
+    "role_note": "Still Dallas's clear WR1 and focal point (25.7% target share) but must fend off a crowded WR room (Pickens added) for volume; Dak's O-line remains shaky (Zack Martin retired, Guyton unproven at LT). 2025 total hurt by missed games and bad TD luck (8 red-zone looks, 3 scores).",
+    "risk": "med",
+    "ceiling": 5,
+    "floor": 3,
+    "thesis": "Target share and talent are still elite, but two straight seasons of missed time make him a high-ceiling WR1 with real recent-injury risk baked in.",
+    "sources": [
+      "https://www.dallasnews.com/sports/cowboys/article/cowboys-ceedee-lamb-training-camp-george-pickens-22372237.php",
+      "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-on-healed-shoulder-im-grateful-to-have-two-arms",
+      "https://insidethestar.com/the-cowboys-offensive-line-could-finally-settle-down-heading-into-2026"
+    ]
+  },
+  {
+    "id": 4262921,
+    "name": "Justin Jefferson",
+    "age": 27,
+    "games_missed_3yr": "2023:7 (hamstring), 2024:0, 2025:0",
+    "injury_now": "Mild hamstring strain in August 2026 camp (~3 weeks out) but has returned to full practice, on track for Week 1.",
+    "pts_2025": 201.5,
+    "finish_2025": "WR21 total / capped by QB carousel",
+    "role_note": "Still the clear alpha and target hog regardless of QB; 2025 production capped by a QB carousel (McCarthy/Wentz/Brosmer) and a TD famine (2 actual vs. ~8.8 expected). Kevin O'Connell has now named veteran Kyler Murray the Week 1 starter — a real QB upgrade over last year's revolving door.",
+    "risk": "med",
+    "ceiling": 5,
+    "floor": 3,
+    "thesis": "A target monster whose 2025 dud was almost entirely a QB problem — an actual veteran starter plus a clean bill of health makes him a bounce-back WR1 with a recent hamstring flare-up as the only real caveat.",
+    "sources": [
+      "https://www.espn.com/nfl/story/_/id/49583297/vikings-name-kyler-murray-starting-qb-sources-say",
+      "https://www.cbssports.com/nfl/news/justin-jefferson-injury-vikings-wr-to-return-from-hamstring-strain-clearing-way-for-week-1-availability/"
+    ]
+  },
+  {
+    "id": 4429160,
+    "name": "De'Von Achane",
+    "age": 24,
+    "games_missed_3yr": "2023:5 (knee, rookie IR), 2024:2-3 (ankle sprain/concussion), 2025:0",
+    "injury_now": "Missed final two preseason games/practice with a calf injury (held out as preventative); GM/coaches say on track for Week 1 and Achane says he feels 100 percent. Also had offseason shoulder surgery, fully participated in camp.",
+    "pts_2025": 322.8,
+    "finish_2025": "RB5",
+    "role_note": "True 3-down bell-cow with elite receiving usage (18.7% target share, 2nd among RBs). Major 2026 upheaval: new HC Jeff Hafley replaces McDaniel, new OC wants a more run-heavy scheme (favorable), but Tua released and Hill/Waddle both gone — receiving corps is thin, increasing Achane's target ceiling but putting more of the offense's overall quality on him.",
+    "risk": "high",
+    "ceiling": 5,
+    "floor": 2,
+    "thesis": "Elite per-touch explosiveness and receiving role, but a third straight year of soft-tissue durability flags plus a gutted, coaching-staff-in-flux Miami offense make him the boom/bust pick of the group.",
+    "sources": [
+      "https://sports.yahoo.com/nfl/breaking-news/article/dolphins-star-devon-achane-will-be-ready-for-week-1-despite-training-camp-calf-injury-145713063.html",
+      "https://www.cbssports.com/nfl/news/dolphins-hire-jeff-hafley-head-coach-replace-mike-mcdaniel/",
+      "https://www.pff.com/news/fantasy-football-2025-rb-devon-achane-player-profile"
+    ]
+  },
+  {
+    "id": 3929630,
+    "name": "Saquon Barkley",
+    "age": 29,
+    "games_missed_3yr": "2023:3 (high ankle sprain), 2024:0, 2025:1",
+    "injury_now": "Tweaked left foot/ankle at Eagles practice Sept 3, 2026 (cleat came off); no formal diagnosis yet, team optimistic it's minor.",
+    "pts_2025": 232.0,
+    "finish_2025": "RB14",
+    "role_note": "Still the unquestioned bell-cow — carry/snap share rose to ~70%/79% in 2025 — but production dropped from RB1-level 2024 (2,283 yds) to RB14 in 2025, offense-wide decline not usage-driven. New OC Sean Mannion (first-time play-caller) installs more outside zone; O-line a year older and reportedly regressed.",
+    "risk": "med",
+    "ceiling": 4,
+    "floor": 3,
+    "thesis": "Elite touch volume in a run-funnel system gives a safe floor, but a green rookie play-caller, a declining O-line, and a fresh ankle/foot tweak cap the ceiling versus his 2024 peak.",
+    "sources": [
+      "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-gets-left-foot-ankle-checked-out-at-eagles-practice",
+      "https://www.cbssports.com/nfl/news/eagles-hire-sean-mannion-offensive-coordinator-jalen-hurts-nick-sirianni/",
+      "https://www.pro-football-reference.com/players/B/BarkSa00.htm"
+    ]
+  },
+  {
+    "id": 3043078,
+    "name": "Derrick Henry",
+    "age": 32,
+    "games_missed_3yr": "2023:0, 2024:0, 2025:0",
+    "injury_now": "Healthy. Minor collision/knee scare at May 2026 OTAs, walked off fine. No Week 1 designation.",
+    "pts_2025": null,
+    "finish_2025": "RB8",
+    "role_note": "Workhorse role intact (307 carries, 1,595 rush yds, 16 total TDs in 2025). OC Todd Monken left for Browns HC job, replaced by first-time OC Declan Doyle installing a new scheme. No real touch competition (Hill/Ali are change-of-pace only). Signed a 2-yr/$30M extension through 2027.",
+    "risk": "med",
+    "ceiling": 4,
+    "floor": 4,
+    "thesis": "Ironman durability and an unchallenged bell-cow role make him one of the safest volume bets in the format, but he's 32 with a brand-new, unproven play-caller — the age cliff is a when-not-if risk.",
+    "sources": [
+      "https://www.thebanner.com/sports/ravens-nfl/ravens-lamar-jackson-derrick-henry-practice-otas-67HSSEFWWJBURJ4AMSXT3TQASY/",
+      "https://www.espn.com/nfl/story/_/id/48958657/baltimore-ravens-2026-nfl-offensive-coordinator-declan-doyle-reboot-offense",
+      "https://www.newsweek.com/sports/nfl/ravens-award-derrick-henry-massive-record-breaking-contract-extension-2072287"
+    ]
+  }
+]

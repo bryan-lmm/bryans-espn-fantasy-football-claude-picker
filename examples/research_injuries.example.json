@@ -1,0 +1,512 @@
+[
+ {
+  "id": 4362628,
+  "name": "Ja'Marr Chase",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -3,
+  "note": "Hyperextended knee in practice late Aug 2026; limited in practice week of 9/1 but Zac Taylor expects him for 9/13 opener vs Tampa Bay.",
+  "source": "https://www.fox19.com/2026/09/01/jamarr-chase-will-be-limited-practice-after-injury/"
+ },
+ {
+  "id": 4426515,
+  "name": "Puka Nacua",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -5,
+  "note": "Psoas soreness from 8/11 joint practice cost ~3 weeks; returned to practice by 8/31 and trending toward Week 1, but reps still ramping and a possible league discipline matter (unrelated to injury) is unresolved as of 9/2.",
+  "source": "https://www.therams.com/news/rams-puka-nacua-injury-update-cowboys-joint-practice-psoas"
+ },
+ {
+  "id": 3117251,
+  "name": "Christian McCaffrey",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "Camp calf tightness/workload management resolved; back to full practice as of early Sept 2026, expected to start Week 1 vs Rams in Australia.",
+  "source": "https://bleacherreport.com/articles/25481651-christian-mccaffrey-injury-update-latest-49ers-stars-practice-status-ahead-2026-nfl-season"
+ },
+ {
+  "id": 4890973,
+  "name": "Ashton Jeanty",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -5,
+  "note": "Ankle sprain since 8/23, still sidelined at practice 9/2; not on IR, HC Kubiak optimistic he plays 9/13 opener vs Dolphins but needs practice reps first.",
+  "source": "https://sports.yahoo.com/articles/latest-ashton-jeanty-injury-updates-153856533.html"
+ },
+ {
+  "id": 4870808,
+  "name": "Jeremiyah Love",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "Rookie RB, No. 3 overall pick to Arizona Cardinals in 2026 draft; no current injury concerns reported, minor college rib/knee history but played through both, missed zero games.",
+  "source": "https://www.nfl.com/news/notre-dame-running-back-jeremiyah-love-announces-intentions-to-enter-2026-nfl-draft"
+ },
+ {
+  "id": 4595348,
+  "name": "Malik Nabers",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -8,
+  "note": "Recovering from 2025 torn ACL plus a second offseason scar-tissue procedure; cleared for full contact late Aug, HC Harbaugh calls Week 1 (9/13 vs Cowboys) 'reasonable' but Nabers himself is non-committal.",
+  "source": "https://www.cbssports.com/nfl/news/malik-nabers-injury-status-giants-wr-shares-honest-assessment-of-progress-week-1-availability/"
+ },
+ {
+  "id": 4427366,
+  "name": "Breece Hall",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -3,
+  "note": "Groin strain from late-Aug practice, originally given 2-3 week timeline; running without issues by late Aug/early Sept and expected ready for 9/13 opener vs Titans.",
+  "source": "https://www.rotowire.com/football/headlines/breece-hall-injury-expected-back-for-week-1-636191"
+ },
+ {
+  "id": 4429615,
+  "name": "Zay Flowers",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -3,
+  "note": "Quad/lower-body issue limiting camp practice reps; Ravens managing him cautiously, full expectation he plays Week 1 vs Colts per CBS Sports (early Sept).",
+  "source": "https://www.cbssports.com/nfl/news/ravens-news-zay-flowers-week-1-injury-update-missing-practice-time/"
+ },
+ {
+  "id": 4567750,
+  "name": "Emeka Egbuka",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -6,
+  "note": "Toe sprain suffered mid-Aug joint practice with Jets, confirmed stable sprain via specialist; missed practice 9/2, HC Bowles 'hopeful' for 9/13 opener vs Bengals but status uncertain.",
+  "source": "https://www.fantasynerds.com/news/story/2026/08/29/emeka-egbukas-week-1-status-uncertain-due-to-toe-injury-1610070"
+ },
+ {
+  "id": 4239993,
+  "name": "Tee Higgins",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -3,
+  "note": "Bruised/contused heel, limited and missed practice early Sept; Zac Taylor says not a major concern, both Higgins and Chase expected good for Week 1 vs Tampa Bay (9/13).",
+  "source": "https://sports.yahoo.com/articles/tee-higgins-injury-latest-bengals-152538571.html"
+ },
+ {
+  "id": 4259545,
+  "name": "D'Andre Swift",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -2,
+  "note": "Left practice early 9/3 with cramps (held midsection); early word is not serious, Bears prepping for 9/13 opener at Carolina.",
+  "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-03/dandre-swift-exits-practice-early-on-thursday"
+ },
+ {
+  "id": 4431459,
+  "name": "Tyler Warren",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "Minor groin injury from joint practice with Falcons; returned to practice 9/1 and expected to play without restrictions Week 1 vs Ravens.",
+  "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-01/tyler-warren-groin-practices-tuesday"
+ },
+ {
+  "id": 4882093,
+  "name": "Bhayshul Tuten",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "Sent home from practice 9/2 with illness (not injury); Jaguars don't play until 9/13 vs Browns, expected to be fine by Week 1.",
+  "source": "https://www.marconews.com/story/sports/fantasy/player-updates/2026/09/02/jacksonville-jaguars-rb-bhayshul-tuten-sent-home-due-to-illness/91577090007/"
+ },
+ {
+  "id": 4431299,
+  "name": "Rome Odunze",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -5,
+  "note": "Right leg injury exiting practice 9/3 (some reports cite MCL sprain concern); early testing positive, expected to be 'all good' but enters Week 1 prep (9/13 vs Panthers) with a question mark.",
+  "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-03/rome-odunze-leaves-practice-early-on-thursday"
+ },
+ {
+  "id": 3040151,
+  "name": "George Kittle",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -6,
+  "note": "Recovering from Jan 2026 Achilles tear; activated off PUP list, positive practice days, traveling to Australia for 9/10 opener vs Rams, but not yet officially cleared to play as of early Sept.",
+  "source": "https://www.49erswebzone.com/articles/200884-george-kittle-availability-achilles-recovery/"
+ },
+ {
+  "id": 4430027,
+  "name": "Sam LaPorta",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -5,
+  "note": "Hip injury caused missed practices in camp; returned to practice (individual + team drills) by early Sept, no official Week 1 word yet vs Saints opener but trending positive; separate from resolved 2025 back-surgery issue.",
+  "source": "https://www.espn.com/nfl/story/_/id/49672143/sam-laporta-status-uncertain-lions-season-opener"
+ },
+ {
+  "id": 4685278,
+  "name": "Luther Burden III",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -4,
+  "note": "Groin injury since 8/8 collision, missed all Bears preseason games; back at practice by late Aug/early Sept, HC Ben Johnson expects him to suit up for 9/13 opener vs Panthers.",
+  "source": "https://www.si.com/nfl/bears/onsi/luther-burden-injury-update-from-bears-brings-more-optimism-for-week-1-status"
+ },
+ {
+  "id": 4432710,
+  "name": "TreVeyon Henderson",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -3,
+  "note": "Ankle injury (slipped in practice 8/24/26), not yet full practice as of 9/4-9/5, expected 'good to go' for Week 1 vs Seahawks 9/9 but unconfirmed (Yahoo Sports/CLNS)",
+  "source": "https://sports.yahoo.com/articles/latest-treveyon-henderson-injury-week-203107414.html"
+ },
+ {
+  "id": 4871023,
+  "name": "Carnell Tate",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -2,
+  "note": "Rookie WR, Titans (NOT Bears) - missed practice 9/1 with 'stiffness' per coach Saleh; earlier preseason concussion; no indication Week 1 status is in danger (NBC Sports/RotoWire)",
+  "source": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-01/carnell-tate-stiffness-not-practicing-tuesday"
+ },
+ {
+  "id": 4047365,
+  "name": "Josh Jacobs",
+  "status_week1": "doubtful",
+  "weeks_out_estimate": 2,
+  "season_risk": "med",
+  "boost": -12,
+  "note": "Groin injury plus placed on NFL Commissioner's Exempt List 9/2-3/26 after criminal charges filed in Brown County WI; cannot practice or play while on list, Week 1 status unresolved (Yahoo Sports/Heavy)",
+  "source": "https://heavy.com/sports/nfl/green-bay-packers/josh-jacobs-suspension-injury-update-news/"
+ },
+ {
+  "id": 16737,
+  "name": "Mike Evans",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -3,
+  "note": "Returned to practice 9/2-3/26, over groin/quad/abductor injuries that limited him most of camp; team optimistic he plays Week 1 vs Rams 9/10 in Australia (SI/49ers Webzone)",
+  "source": "https://www.si.com/onsi/fantasy/injuries/mike-evans-injury-update-is-great-news-for-him-but-could-hurt-another-49ers-week-1-fantasy-football-value"
+ },
+ {
+  "id": 4047650,
+  "name": "DK Metcalf",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -2,
+  "note": "Undisclosed injury for much of camp, returned to practice ~8/31, says he feels '100%', expected ready for Week 1 vs Falcons 9/13 (CBS Sports/FantasyPros)",
+  "source": "https://www.cbssports.com/fantasy/football/news/steelers-dk-metcalf-expected-to-be-ready-for-week-1/"
+ },
+ {
+  "id": 4035687,
+  "name": "Michael Pittman Jr.",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -2,
+  "note": "Right-leg injury in camp, back on practice field last week (early Sept), expected available for Steelers Week 1 vs Falcons 9/13 (Bleacher Report)",
+  "source": "https://bleacherreport.com/articles/25474796-new-dk-metcalf-michael-pittman-jr-injury-update-status-steelers-vs-falcons-week-1"
+ },
+ {
+  "id": 4572680,
+  "name": "Tucker Kraft",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -3,
+  "note": "Returning from ACL tear suffered Week 9 2025; expected 'full go' for Week 1 vs Vikings but will reportedly be on a snap count until midseason (CBS Sports/Yahoo)",
+  "source": "https://www.cbssports.com/fantasy/football/news/packers-tucker-kraft-expected-to-be-full-go-week-1/"
+ },
+ {
+  "id": 4678008,
+  "name": "Jonathon Brooks",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -5,
+  "note": "Out of practice 9/2-3/26 with unspecified soreness; coach Canales 'very optimistic' he plays Week 1; history of back-to-back ACL surgeries on right knee (ESPN/On3)",
+  "source": "https://www.espn.com/nfl/story/_/id/49805489/panthers-rb-jonathon-brooks-coach-optimistic"
+ },
+ {
+  "id": 4241416,
+  "name": "Chuba Hubbard",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -3,
+  "note": "Hamstring strain from training camp, missed all preseason games, but hit 20+ mph in return-to-play drills and ahead of schedule; Panthers expect him ready for Week 1 as starter alongside Brooks (Fox Sports/NBC Sports)",
+  "source": "https://www.foxsports.com/stories/nfl/carolina-panthers-running-back-chuba-hubbard-injury"
+ },
+ {
+  "id": 3139477,
+  "name": "Patrick Mahomes",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -4,
+  "note": "Recovering from torn ACL/LCL that ended 2025 season; full practice since July clearance, no preseason game reps, but on track to start Week 1 vs Broncos 9/14 (Bleacher Report/CBS Sports)",
+  "source": "https://bleacherreport.com/articles/25485853-patrick-mahomes-gives-week-1-injury-status-update-amid-knee-rehab-chiefs-prepare-broncos"
+ },
+ {
+  "id": 4569587,
+  "name": "Wan'Dale Robinson",
+  "status_week1": "doubtful",
+  "weeks_out_estimate": 1,
+  "season_risk": "med",
+  "boost": -8,
+  "note": "Recovering from torn right ACL (Week 11 2025); now with Titans in 2026; limited on all Week 1 injury reports and considered doubtful for opener, targeting return 9/17 at Arizona (CBS Sports)",
+  "source": "https://www.cbssports.com/fantasy/football/news/giants-wandale-robinson-sitting-out-week-1"
+ },
+ {
+  "id": 3916433,
+  "name": "Jakobi Meyers",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -1,
+  "note": "Hand injury from joint practice with Panthers, returned to practice ~9/3; coach Liam Coen says he's 'all good', not a Week 1 concern (RotoWire/Silver and Black Pride)",
+  "source": "https://www.rotowire.com/football/headlines/jakobi-meyers-injury-will-practice-wednesday-635996"
+ },
+ {
+  "id": 4608686,
+  "name": "Kyle Monangai",
+  "status_week1": "doubtful",
+  "weeks_out_estimate": 2,
+  "season_risk": "med",
+  "boost": -10,
+  "note": "Hyperextended right knee in practice, labeled week-to-week by coach Ben Johnson; Week 1 (9/13 vs Panthers) in doubt but avoided IR on roster cuts, expected back within first 4 weeks (ESPN/SI)",
+  "source": "https://www.espn.com/nfl/story/_/id/49643703/bears-rb-kyle-monangai-knee-expected-miss-multiple-weeks-source-says"
+ },
+ {
+  "id": 4697815,
+  "name": "Rachaad White",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -2,
+  "note": "Now with Commanders (signed 2026 FA deal); hamstring injury not considered serious, ruled out of 2nd preseason game but progressing; expected to handle change-of-pace/pass-down role behind Jacory Croskey-Merritt for Week 1 opener 9/13 vs Eagles (Pro Football Network)",
+  "source": "https://www.profootballnetwork.com/rachaad-white-buccaneers-injury-irving-backfield/"
+ },
+ {
+  "id": 4575131,
+  "name": "Jacory Croskey-Merritt",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -1,
+  "note": "Lower-body/groin injury from 8/20 practice kept him out of final two preseason games; returned to practice 9/1, on track for Week 1 as favorite for early-down carries in Washington backfield (CBS Sports/RotoWire)",
+  "source": "https://www.cbssports.com/fantasy/football/news/commanders-jacory-croskey-merritt-may-be-dealing-with-injury/"
+ },
+ {
+  "id": 4688813,
+  "name": "Josh Downs",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -1,
+  "note": "Calf injury, missed practice Tue/Wed early Sept but called it 'very minor' and 'precautionary'; returned to practice, likely ready for Week 1 vs Ravens (Yahoo Sports/SI)",
+  "source": "https://sports.yahoo.com/articles/colts-josh-downs-gets-encouraging-202018062.html"
+ },
+ {
+  "id": 4710714,
+  "name": "De'Zhaun Stribling",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -1,
+  "note": "Rookie WR (49ers, Rd2/33rd overall 2026 draft out of Ole Miss); missed camp practice time with hamstring tightness, not a strain, considered minor setback (Yahoo Sports)",
+  "source": "https://sports.yahoo.com/articles/49ers-zhaun-stribling-gets-hamstring-194713351.html"
+ },
+ {
+  "id": 4373678,
+  "name": "Khalil Shakir",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -3,
+  "note": "High ankle sprain in camp; progressing well, no boot, tracking to be ready for Week 1 vs Texans per McDermott (9/2/26 report).",
+  "source": "https://www.si.com/nfl/the-latest-khalil-shakir-injury-update-bills"
+ },
+ {
+  "id": 4426385,
+  "name": "Zach Charbonnet",
+  "status_week1": "out",
+  "weeks_out_estimate": 4,
+  "season_risk": "med",
+  "boost": -14,
+  "note": "Torn ACL (Jan 2026, surgery 2/20/26); placed on reserve/PUP, out minimum 4 games, earliest return Week 5 vs SF (RotoWire/NFL.com, 9/2-9/3/26).",
+  "source": "https://www.rotowire.com/football/headlines/zach-charbonnet-injury-opening-season-on-reservepup-list-635463"
+ },
+ {
+  "id": 4361529,
+  "name": "Isiah Pacheco",
+  "status_week1": "out",
+  "weeks_out_estimate": 4,
+  "season_risk": "high",
+  "boost": -22,
+  "note": "Placed on IR 9/1-9/2/26 with back injury/MCL sprain, out at least 4 games (earliest Week 5 vs ARI); GM only says 'that's the hope' he returns this season (ESPN/Detroit News, 9/2/26).",
+  "source": "https://www.espn.com/nfl/story/_/id/49796729/detroit-lions-place-rb-isiah-pacheco-injured-reserve"
+ },
+ {
+  "id": 3054850,
+  "name": "Alvin Kamara",
+  "status_week1": "doubtful",
+  "weeks_out_estimate": 1,
+  "season_risk": "low",
+  "boost": -8,
+  "note": "MCL sprain suffered 8/18/26 joint practice, expected out ~1 month; HC Kellen Moore said Week 1 status undetermined as of early Sept, decision pending (CBS Sports).",
+  "source": "https://www.cbssports.com/nfl/news/alvin-kamara-injury-saints-mcl-sprain-running-back-options/"
+ },
+ {
+  "id": 4430834,
+  "name": "Jalen McMillan",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "med",
+  "boost": -3,
+  "note": "Recovering from knee/leg injury, back to practice on the side, Bowles says 'headed in the right direction'; no Week 1 ruling-out reported as of early Sept 2026, but injury-prone history is a lingering risk.",
+  "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-bowles-emeka-egbuka-jalen-mcmillan-headed-in-the-right-direction"
+ },
+ {
+  "id": 5083315,
+  "name": "Kenyon Sadiq",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -2,
+  "note": "Rookie TE (Jets) had hernia-surgery setback in camp, limited to side work through preseason, but HC Aaron Glenn said he's on track to play Week 1 vs Titans.",
+  "source": "https://www.espn.com/nfl/story/_/id/49529675/jets-rookie-te-kenyon-sadiq-miss-hernia-setback"
+ },
+ {
+  "id": 4880281,
+  "name": "Jordyn Tyson",
+  "status_week1": "out",
+  "weeks_out_estimate": 8,
+  "season_risk": "high",
+  "boost": -38,
+  "note": "Rookie WR (Saints, No. 8 overall pick) hamstring injury 8/17/26, placed on IR w/ return designation 8/30/26; expected out ~2 months, likely beyond Week 5, recurring hamstring history flagged pre-draft.",
+  "source": "https://www.nfl.com/news/saints-rookie-wr-jordyn-tyson-hamstring-expected-to-miss-2-months"
+ },
+ {
+  "id": 4570037,
+  "name": "Terrance Ferguson",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -2,
+  "note": "Rookie TE (Rams) dealt with groin injury/soreness limiting him to one preseason game; no confirmed Week 1 game-status ruling found as of early Sept 2026, appears trending to play.",
+  "source": "https://www.rotoballer.com/player-news/terrance-ferguson-remains-absent-from-practice/1920036"
+ },
+ {
+  "id": 4596334,
+  "name": "Keaton Mitchell",
+  "status_week1": "questionable",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": -3,
+  "note": "Missed 6 straight practices (undisclosed injury) but Chargers GM Joe Hortiz expects him to play Week 1 vs Cardinals (9/13/26); in rotation behind Omarion Hampton with Kimani Vidal.",
+  "source": "https://sports.yahoo.com/articles/chargers-rb-keaton-mitchell-misses-180040411.html"
+ },
+ {
+  "id": 3929630,
+  "name": "Saquon Barkley",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "No confirmed new injury for Week 1 2026 found; listed as an Eagles team captain, participated in joint practices 8/20/26. Healthy per available data.",
+  "source": "https://fantasyfootballcalculator.com/players/saquon-barkley/injury"
+ },
+ {
+  "id": 3043078,
+  "name": "Derrick Henry",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "No injury designation; named a Ravens 2026 team captain, on track to open Week 1 vs Colts as the lead back.",
+  "source": "https://www.rotowire.com/football/headlines/derrick-henry-news-joined-by-familiar-complements-in-backfield-635837"
+ },
+ {
+  "id": 16800,
+  "name": "Davante Adams",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "No fresh Sept 2026 injury news found; most recent issue was a hamstring strain during the 2025 playoffs, resolved. No Week 1 2026 concern reported.",
+  "source": "https://www.therams.com/news/rams-injury-updates-quentin-lake-and-davante-adams-expected-to-return-for-wild-card-round-at-panthers-latest-on-kevin-dotson"
+ },
+ {
+  "id": 15847,
+  "name": "Travis Kelce",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "Expected to play Week 1 (Mon 9/14/26 vs Broncos); missed a ceremonial kickoff luncheon due to illness, not an injury (CBS Sports/Yahoo).",
+  "source": "https://www.cbssports.com/fantasy/football/news/fantasy-football-last-minute-travis-kelce-injury-throws-week-1-status-first-round-draft-value-into-question/"
+ },
+ {
+  "id": 3916387,
+  "name": "Lamar Jackson",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "No active injury designation heading into Week 1 2026; named a Ravens team captain.",
+  "source": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-has-no-injury-designation-marlon-humphrey-listed-as-questionable"
+ },
+ {
+  "id": 3915511,
+  "name": "Joe Burrow",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "Fully cleared for camp per HC Zac Taylor (late July 2026); no injury concerns reported for Week 1 2026.",
+  "source": "https://fantasyfootballcalculator.com/players/joe-burrow/injury"
+ },
+ {
+  "id": 4262921,
+  "name": "Justin Jefferson",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "Mild hamstring strain in late-July camp fully resolved; returned to practice and expected to start Week 1 vs Bears (CBS Sports, early Sept 2026).",
+  "source": "https://www.cbssports.com/nfl/news/justin-jefferson-injury-vikings-wr-to-return-from-hamstring-strain-clearing-way-for-week-1-availability/"
+ },
+ {
+  "id": 4241389,
+  "name": "CeeDee Lamb",
+  "status_week1": "in",
+  "weeks_out_estimate": 0,
+  "season_risk": "low",
+  "boost": 0,
+  "note": "No reported injury concerns heading into Week 1 2026; healthy after missing 3 games last season.",
+  "source": "https://www.kltv.com/2026/08/01/got-be-me-ceedee-lamb-looks-stay-healthy-2026/"
+ }
+]

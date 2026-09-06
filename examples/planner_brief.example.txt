@@ -1,0 +1,5 @@
+LEAGUE TENDENCIES (from your league's draft history via the leagueHistory API): e.g. "QBs go early here: 5-6 by round 4, 10-11 by round 7 (ESPN ADP implies 3 and 8). TEs ~5 by round 5. K from round 9-11."
+STRATEGY RESEARCH (your research pass, dated): position priorities, tiers, fades, sleepers.
+PROJECTION CURVES (your league's scoring): e.g. "RB cliff #15->#24, WR plateau #9->#24, QB flat #3->#15 with one outlier, TE #1-2 vs #6 vs #12".
+CONVICTION BOARD: what the bot will do in rounds 1-3 regardless of your advice; you advise from round 4 on.
+Today is <date>; NFL Week 1 is <date>. Playoffs are fantasy weeks <n-n>.
