@@ -53,7 +53,7 @@ take over, open the room yourself (this kicks the bot), then Ctrl-C it.
 
 ## Layout
 `draftbot/engine.py` board · `draftbot/room.py` Playwright driver · `draftbot/planner.py` Claude advisor ·
-`draftbot/espn.py` API reads · `live.py` loop · `preflight.py` · `evaluate.py` · `watch.py` · `tools_cookies.py`.
+`draftbot/espn.py` API reads · `live.py` loop · `preflight.py` · `evaluate.py` · `analyze.py` · `watch.py` · `tools_cookies.py`.
 `LEARNINGS.md` has the ESPN plumbing and DOM facts that cost a day to learn; `STRATEGY.md` the drafting logic.
 
 MIT. Author: Bryan Wilson, with Claude Fable 5.1. Not affiliated with ESPN or Disney.
