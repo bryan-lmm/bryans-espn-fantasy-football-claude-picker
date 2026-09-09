@@ -57,3 +57,11 @@ take over, open the room yourself (this kicks the bot), then Ctrl-C it.
 `LEARNINGS.md` has the ESPN plumbing and DOM facts that cost a day to learn; `STRATEGY.md` the drafting logic.
 
 MIT. Author: Bryan Wilson, with Claude Fable 5.1. Not affiliated with ESPN or Disney.
+
+## In-season (weekly loop)
+`season.py roster` and `season.py fa --sort trending|ros|week` (live ESPN pull: ROS + weekly projections, ownership change, waiver status);
+`dst.py` (D/ST streaming board from Vegas implied totals via ESPN's public scoreboard); `weekly.py --json` (matchup-adjusted starters +
+bench audit vs the free-agent pool); `season_planner.py --week N` (Claude judgment pass over the optimizer output + your research files);
+`transact.py find|add|drop|lineup` (ESPN write endpoint; add/drop proven live); `analyze.py` (roster comparison). Put handcuff ids in
+`data/handcuffs.json` so the bench audit protects them. Rule we learned the expensive way: one D/ST slot, streamed weekly by opponent
+implied total; never hold two.
